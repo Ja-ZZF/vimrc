@@ -20,9 +20,10 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'preservim/nerdtree'
 call plug#end()
 
-" colorscheme
+syntax enable
 set background=dark
 colorscheme gruvbox
+
 set termguicolors
 
 " key-binding
